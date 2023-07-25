@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.zoomLevel": 2,
+		"explorer.compactFolders": false,
+		"terminal.integrated.fontSize": 24,
+		"workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+		"workbench.iconTheme": "material-icon-theme",
+		"terminal.integrated.fontFamily": "",
+		"python.languageServer": "Pylance"
+	}
+}
